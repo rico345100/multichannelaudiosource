@@ -8,6 +8,7 @@ Check the Demo Scene and Demo Video to see how it works.
 ## Updates
 ### 1.1
 - Supports Dynamic Length for Channels.
+- Supports AudioSourceProxy.
 
 ## Getting Started
 Using Multi Channel Audio Source is really easy.

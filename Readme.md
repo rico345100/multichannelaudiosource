@@ -10,6 +10,7 @@ Now available from [Unity's Asset store.](https://assetstore.unity.com/packages/
 ## Updates
 ### 1.1
 - Supports Dynamic Length for Channels.
+- Supports AudioSourceProxy.
 
 ## Getting Started
 Using Multi Channel Audio Source is really easy.
