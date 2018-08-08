@@ -2,6 +2,8 @@
 Multi Channel Audio Source designed to handle multiple sound plays in short time effectively.
 Check the Demo Scene and Demo Video to see how it works.
 
+Now available from [Unity's Asset store.](https://assetstore.unity.com/packages/tools/audio/multi-channel-audio-source-120749).
+
 ## Terms
 "Attribute" in this documentation means member value of Class. Please don't confuse from C# Attributes.
 
