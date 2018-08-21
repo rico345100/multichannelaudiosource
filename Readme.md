@@ -16,6 +16,36 @@ Now available from [Unity's Asset store.](https://assetstore.unity.com/packages/
 Using Multi Channel Audio Source is really easy.
 All you have to do is just add "MultiChannelAudioSource" component that you want to play sound, and use the method it provides.
 
+## Example
+First you have to add MultiChannelAudioSource Component.
+
+```clike
+private MultiChannelAudioSource audioSource;
+
+void Start() {
+    audioSource = GetComponent<MultiChannelAudioSource>();
+}
+```
+
+By the way, you can wait until MultiChannelAudioSource is ready by checking Initialized value.
+
+```clike
+if(audioSource.Initialized) {
+    Debug.Log("Is Initialized");
+}
+else {
+    Debug.Log("It's not Initialized");
+}
+```
+
+After get reference of MultiChannelAudioSource, you can play the sound with invoke methods.
+
+```clike
+audioSource.PlayAtSequence(audioClip);
+```
+
+Check the Demos in Demos folder to see how it works.
+
 ## API
 ### public class MultiChannelAudioSource
 #### public int ChannelLength [New From 1.1]
