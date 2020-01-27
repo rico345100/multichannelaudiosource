@@ -115,3 +115,8 @@ Only you have to do is update "Starting Channels" value to your desired value, b
 
 ## License?
 Free to use. If you have any suggestion, send me a mail to: rico345100@gmail.com
+
+## Buy me a coffee!
+Donations are big help for me to continue my development!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PVXTU5FJNBLDS)
